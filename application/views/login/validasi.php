@@ -9,7 +9,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<<<<<<< HEAD
     <title>E-Survei SMA Bopkri 1 Yogyakarta</title>
+=======
+    <title>Angket Kepuasan Mahasiswa</title>
+>>>>>>> d32c484f22e223f34911dc2d58fa6b6b59d9baa4
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no"
     />
     <meta name="description" content="Kero HTML Bootstrap 4 Dashboard Template">
@@ -25,23 +29,37 @@
                 <div class="h-100 bg-plum-plate bg-animation">
                     <div class="d-flex h-100 justify-content-center align-items-center">
                         <div class="mx-auto app-login-box col-md-8">
+<<<<<<< HEAD
                             <div class="app-logo-inverse mx-auto mb-3"></div>
+=======
+>>>>>>> d32c484f22e223f34911dc2d58fa6b6b59d9baa4
                             <div class="modal-dialog w-100 mx-auto">
                                 <div class="modal-content">
                                     <div class="modal-body">
                                         <div class="h5 modal-title text-center">
                                             <h4 class="mt-2">
+<<<<<<< HEAD
                                                 <div>Selamat Datang di E-Survei BOSA</div>
+=======
+                                                <div>Selamat Datang Di Universitas Ibrahimy</div>
+>>>>>>> d32c484f22e223f34911dc2d58fa6b6b59d9baa4
                                                 <span>Registrasi Siswa</span>
                                             </h4>
                                         </div>
                                         <form class="" action="<?php echo site_url('login/auth');?>" method="post">
                                             <div class="form-row">
                                                 <div class="col-md-12">
+<<<<<<< HEAD
                                                     <div class="position-relative form-group"><input name="nipd" id="exampleEmail" placeholder="NIPD" type="" class="form-control" required></div>
                                                 </div>
                                                 <div class="col-md-12">
                                                     <div class="position-relative form-group"><input name="namaIbu" id="examplePassword" placeholder="Nama Lengkap Ibu" type="" class="form-control" required></div>
+=======
+                                                    <div class="position-relative form-group"><input name="nim" id="exampleEmail" placeholder="NIM" type="" class="form-control" required></div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <div class="position-relative form-group"><input name="namaIbu" id="examplePassword" placeholder="Password" type="" class="form-control" required></div>
+>>>>>>> d32c484f22e223f34911dc2d58fa6b6b59d9baa4
                                                 </div>
                                             </div>
                                     </div>
