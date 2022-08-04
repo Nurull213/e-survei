@@ -25,7 +25,6 @@
                 <div class="h-100 bg-plum-plate bg-animation">
                     <div class="d-flex h-100 justify-content-center align-items-center">
                         <div class="mx-auto app-login-box col-md-8">
-                            <div class="app-logo-inverse mx-auto mb-3"></div>
                             <div class="modal-dialog w-100 mx-auto">
                                 <div class="modal-content">
                                     <div class="modal-body">
@@ -41,7 +40,7 @@
                                                     <div class="position-relative form-group"><input name="nim" id="exampleEmail" placeholder="NIM" type="" class="form-control" required></div>
                                                 </div>
                                                 <div class="col-md-12">
-                                                    <div class="position-relative form-group"><input name="namaIbu" id="examplePassword" placeholder="Nama Lengkap Ibu" type="" class="form-control" required></div>
+                                                    <div class="position-relative form-group"><input name="namaIbu" id="examplePassword" placeholder="Password" type="" class="form-control" required></div>
                                                 </div>
                                             </div>
                                     </div>
